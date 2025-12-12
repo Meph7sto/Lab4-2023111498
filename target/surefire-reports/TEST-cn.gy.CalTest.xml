@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="cn.gy.CalTest" time="0.027" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\workspace\study\kaiyuan\lab4\Lab4-2023111498\target\test-classes;D:\workspace\study\kaiyuan\lab4\Lab4-2023111498\target\classes;C:\Users\ASUS\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\ASUS\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\ASUS\AppData\Local\Temp\surefire8152812872343409258\surefirebooter-20251212212317360_3.jar C:\Users\ASUS\AppData\Local\Temp\surefire8152812872343409258 2025-12-12T21-23-17_301-jvmRun1 surefire-20251212212317360_1tmp surefire_0-20251212212317360_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\workspace\study\kaiyuan\lab4\Lab4-2023111498\target\test-classes;D:\workspace\study\kaiyuan\lab4\Lab4-2023111498\target\classes;C:\Users\ASUS\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\ASUS\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ASUS"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-07-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\workspace\study\kaiyuan\lab4\Lab4-2023111498"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\ASUS\AppData\Local\Temp\surefire8152812872343409258\surefirebooter-20251212212317360_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
+    <property name="user.name" value="ASUS"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\ASUS\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ASUS\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.12"/>
+    <property name="user.dir" value="D:\workspace\study\kaiyuan\lab4\Lab4-2023111498"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\ASUS\miniconda3;C:\Users\ASUS\miniconda3\Library\mingw-w64\bin;C:\Users\ASUS\miniconda3\Library\usr\bin;C:\Users\ASUS\miniconda3\Library\bin;C:\Users\ASUS\miniconda3\Scripts;C:\Users\ASUS\miniconda3\bin;C:\Users\ASUS\miniconda3\condabin;C:\Program Files\PowerShell\7;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\bin\x64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\bin;c:\Users\ASUS\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Git\cmd;C:\JupyterLab;C:\Users\ASUS\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\ASUS\AppData\Local\Programs\Python\Python39;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\.dotnet\tools;C:\Program Files\JetBrains\PyCharm 2025.1.2\bin;C:\Users\ASUS\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\ASUS\AppData\Roaming\npm;c:\Users\ASUS\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\ASUS\apache-maven-3.9.11\bin;C:\Program Files (x86)\ZeroTier\One;C:\Program Files\nodejs;C:\Program Files\Graphviz\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MiKTeX\miktex\bin\x64;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\Pandoc;C:\Program Files (x86)\PowerShell\7;C:\Program Files\PowerShell\7;C:\Program Files\NVIDIA Corporation\Nsight Compute 2025.3.1;C:\Program Files\cursor\resources\app\bin;C:\Users\ASUS\scoop\shims;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\ASUS\.local\bin;C:\Users\ASUS\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\ASUS\AppData\Local\Programs\Python\Python39;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm 2025.1.2\bin;.;C:\Users\ASUS\AppData\Roaming\npm;C:\Users\ASUS\miniconda3;C:\Users\ASUS\miniconda3\Library\mingw-w64\bin;C:\Users\ASUS\miniconda3\Library\usr\bin;C:\Users\ASUS\miniconda3\Library\bin;C:\Users\ASUS\miniconda3\Scripts;C:\Program Files\Bandizip;C:\Users\ASUS\.dotnet\tools;C:\Users\ASUS\AppData\Local\Microsoft\WinGet\Packages\junegunn.fzf_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\ASUS\AppData\Local\Microsoft\WinGet\Packages\ajeetdsouza.zoxide_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\ASUS\AppData\Local\Microsoft\WinGet\Packages\axeprpr.SSHCopyID_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\ASUS\AppData\Local\Programs\Antigravity\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.12+8-LTS-286"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testAdd" classname="cn.gy.CalTest" time="0.001"/>
+</testsuite>
